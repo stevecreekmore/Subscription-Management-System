@@ -1,0 +1,4 @@
+id,name,email,email_verified_at,password,remember_token,created_at,updated_at,company_id,last_login_at
+1,System Administrator,admin@example.com,2025-08-04 02:09:53,$2y$12$wgx7nXtfg5sRiN0bPqDwzeaD.r1vdVB0EhmR2G3hxO2eVQkF8l4Yq,,2025-08-04 02:09:53,2025-08-04 02:09:53,1,
+2,Test User,user@example.com,2025-08-04 02:09:53,$2y$12$PfS5lRLploPiML2xpx5RXuOeCfKOIek7lYfYnsjRkV3A8lhCndRyu,,2025-08-04 02:09:53,2025-08-04 02:09:53,1,
+3,Test User2,user2@example.com,2025-08-04 02:09:53,$2y$12$5GWlx5qEBpmr41XoRXCZvOqJ5paJi28sam7nEXY.7We7WRjNCdtLO,,2025-08-04 02:09:53,2025-08-04 02:09:53,1,

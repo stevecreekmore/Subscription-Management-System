@@ -1,0 +1,2 @@
+id,name,slug,description,contact_email,phone,address,is_active,created_at,updated_at
+1,ACME Corporation,acme-corp,A sample company for testing,contact@acme.com,+1-555-0123,"123 Main St, Anytown, USA",true,2025-08-04 02:09:52,2025-08-04 02:09:52

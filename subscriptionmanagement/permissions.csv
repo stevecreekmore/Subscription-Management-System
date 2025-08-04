@@ -1,0 +1,31 @@
+id,name,guard_name,created_at,updated_at
+1,view subscriptions,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+2,create subscriptions,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+3,edit subscriptions,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+4,delete subscriptions,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+5,view companies,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+6,create companies,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+7,edit companies,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+8,delete companies,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+9,view users,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+10,create users,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+11,edit users,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+12,delete users,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+13,view applications,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+14,create applications,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+15,edit applications,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+16,delete applications,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+17,view subscription plans,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+18,create subscription plans,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+19,edit subscription plans,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+20,delete subscription plans,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+21,view discount rules,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+22,create discount rules,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+23,edit discount rules,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+24,delete discount rules,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+25,view learning dependencies,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+26,create learning dependencies,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+27,edit learning dependencies,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+28,delete learning dependencies,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+29,view admin dashboard,web,2025-08-04 02:09:52,2025-08-04 02:09:52
+30,manage system settings,web,2025-08-04 02:09:52,2025-08-04 02:09:52

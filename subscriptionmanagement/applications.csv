@@ -1,0 +1,4 @@
+id,name,slug,description,api_key,api_secret,is_active,created_at,updated_at
+1,App1,app1,First application in the subscription system,app1_1qNIOSYXJUtJlOIjf98sVvTRMwRcMCPw,$2y$12$iN0zpjzN6/LzAqyRVbIxDu3iYmsN3cDf8iyH8V51dVCrOMJx9v3lW,true,2025-08-04 02:09:53,2025-08-04 02:09:53
+2,App2,app2,Second application in the subscription system,app2_HGNH8MkZc3hlxOPZK8VyWn4AtmpKS3e4,$2y$12$ULv1aW6mNBahRx3ZfTEFz.nZ6HV/ZjAsU04ZI6hTWvLweSFBzgrwW,true,2025-08-04 02:09:53,2025-08-04 02:09:53
+3,App3,app3,Third application in the subscription system,app3_3gxhr40McUnEW5rkEn9sdP2Ndg09WZ90,$2y$12$Vn4WE4ly2zyfcRcmlmrJse.klUdBlOXy/n0iLksjqKW72hiGVPrUG,true,2025-08-04 02:09:53,2025-08-04 02:09:53

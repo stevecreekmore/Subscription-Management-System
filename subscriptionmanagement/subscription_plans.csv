@@ -1,0 +1,10 @@
+id,application_id,name,slug,description,price,billing_period,features,is_active,created_at,updated_at
+1,1,Basic Plan,basic,Basic features for App1,9.99,monthly,"[""Feature 1"",""Feature 2"",""Basic Support""]",true,2025-08-04 02:09:53,2025-08-04 02:09:53
+2,1,Pro Plan,pro,Professional features for App1,19.99,monthly,"[""All Basic Features"",""Advanced Analytics"",""Priority Support""]",true,2025-08-04 02:09:53,2025-08-04 02:09:53
+3,1,Enterprise Plan,enterprise,Enterprise features for App1,99.99,monthly,"[""All Pro Features"",""Custom Integrations"",""Dedicated Support""]",true,2025-08-04 02:09:53,2025-08-04 02:09:53
+4,2,Basic Plan,basic,Basic features for App2,9.99,monthly,"[""Feature 1"",""Feature 2"",""Basic Support""]",true,2025-08-04 02:09:53,2025-08-04 02:09:53
+5,2,Pro Plan,pro,Professional features for App2,19.99,monthly,"[""All Basic Features"",""Advanced Analytics"",""Priority Support""]",true,2025-08-04 02:09:53,2025-08-04 02:09:53
+6,2,Enterprise Plan,enterprise,Enterprise features for App2,99.99,monthly,"[""All Pro Features"",""Custom Integrations"",""Dedicated Support""]",true,2025-08-04 02:09:53,2025-08-04 02:09:53
+7,3,Basic Plan,basic,Basic features for App3,9.99,monthly,"[""Feature 1"",""Feature 2"",""Basic Support""]",true,2025-08-04 02:09:53,2025-08-04 02:09:53
+8,3,Pro Plan,pro,Professional features for App3,19.99,monthly,"[""All Basic Features"",""Advanced Analytics"",""Priority Support""]",true,2025-08-04 02:09:53,2025-08-04 02:09:53
+9,3,Enterprise Plan,enterprise,Enterprise features for App3,99.99,monthly,"[""All Pro Features"",""Custom Integrations"",""Dedicated Support""]",true,2025-08-04 02:09:53,2025-08-04 02:09:53
